@@ -14,7 +14,7 @@
         "FinalBSplineInterpolationOrder": "3",
         "NumberOfResolutions": "3",
         "WriteIterationInfo": "false",
-        "ImageSampler": "RandomCoordinate",
+        "ImageSampler": "RandomSparseMask",
         "NumberOfSpatialSamples": "2048",
         "CheckNumberOfSamples": "true",
         "MaximumNumberOfSamplingAttempts": "8",
